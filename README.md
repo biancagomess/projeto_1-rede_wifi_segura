@@ -13,3 +13,20 @@ O desafio é a criação de uma rede Wireless segura considerando as melhores pr
 
 
 </div>
+
+# 📁 Acesso ao projeto
+
+
+# 🔽 Rodar o projeto
+<li> Primeiramente será necessário fazer o downlod da tecnologia utilizada na versão do projeto. </li>
+<li> Após o download, você acessará com sua conta de acesso no site:</br> 
+[ NetAcademy ] (https://www.netacad.com/) ou no [ Skills For All] (https://skillsforall.com/) </li>
+❗Caso não tenha uma conta é necessário cria-la. 
+<li> Feito isso, abra o packet tracer, clique em file --> open file --> e escolha o arquivo que baixou aqui do meu projeto 🙂 </li>
+<li> Pronto, agora é só verificar as configurações de IP e realizar os teste de ping ✔️💯</li>
+
+
+
+# ✔️👨‍💻 Tecnologias utilizadas: 
+
+- 🔗[Cisco Packet Tracer](https://www.netacad.com/courses/packet-tracer) - Versão: 8.2.2.0400
