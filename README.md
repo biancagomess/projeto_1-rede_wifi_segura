@@ -1,4 +1,4 @@
-<h1 align="center">1° Projeto Prático - Segurança da Informação</h1> :
+<h1 align="center">1° Projeto Prático - Segurança da Informação</h1>
 
 <p>
 Este projeto é uma proposta de desafio do projeto Desenvolve 2024 do grupo Boticário em parceria com a Alura . 
@@ -20,7 +20,9 @@ O desafio é a criação de uma rede Wireless segura considerando as melhores pr
 ## Acesso ao projeto 📂
 <p>
  ☑️ Esse projeto pode ser acessado clicando no <b>diretório projetos</b> aqui neste repositório mesmo 😄.</br>
- ☑️ Também é possível verificar a evolução do projeto por atividades na <b>aba Projetos</b>. 
+ ☑️ Também é possível verificar a evolução do projeto por atividades na <b>aba Projetos</b>. </br>
+ Obs. Por ser uma rede simulada, todas as senhas configuradas estão visivéis. 
+ 
 </p> 
 
 ## Rodar o projeto ▶️
