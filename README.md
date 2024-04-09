@@ -1,12 +1,15 @@
-<h1 align="center">1° Projeto Prático - Segurança da Informação</h1>
+<h1 align="center">1° Projeto Prático - Segurança da Informação</h1> :
 
-<spam>
- Este projeto é uma proposta de desafio do projeto Desenvolve 2024 do grupo Boticário em parceria com a Alura . 
-O desafio é a criação de uma rede Wireless segura considerando as melhores práticas de segurança, como autenticação forte, criptografia, controle de acesso e segmentada por Vlan.  
-</spam>
+<p>
+Este projeto é uma proposta de desafio do projeto Desenvolve 2024 do grupo Boticário em parceria com a Alura . 
+O desafio é a criação de uma rede Wireless segura considerando as melhores práticas de segurança, como autenticação forte, criptografia, controle de acesso, ACL e segmentação por Vlan.</br>
+</p>
+
+
+![59 - Visão Lógica da rede completa](https://github.com/biancagomesalves/projeto_rede_wireless_segura/assets/81443381/d3535a76-a7cf-4c4e-9c89-ed871dc2455d) 
 
 ---
-<p>O processo de criação da rede se deu seguindo as seguintes etapas: </p>
+<span>O processo de criação da rede se deu seguindo as seguintes etapas: </span>
 <ul>
  <li> Planejamento da Rede;</li>
  <li> Configuração da Rede;</li>
@@ -15,10 +18,10 @@ O desafio é a criação de uma rede Wireless segura considerando as melhores pr
 
 ---
 ## Acesso ao projeto 📂
-<span>
+<p>
  ☑️ Esse projeto pode ser acessado clicando no <b>diretório projetos</b> aqui neste repositório mesmo 😄.</br>
  ☑️ Também é possível verificar a evolução do projeto por atividades na <b>aba Projetos</b>. 
-</span> 
+</p> 
 
 ## Rodar o projeto ▶️
 </br>
