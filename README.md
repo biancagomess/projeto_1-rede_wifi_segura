@@ -31,7 +31,7 @@ O desafio é a criação de uma rede Wireless segura considerando as melhores pr
 </br>
 <ul>
   <li> Primeiramente será necessário fazer o download da tecnologia utilizada na versão do projeto. </li>
-  <li> Após o download, você acessará com sua conta de usuário no site: [ NetAcademy ] (https://www.netacad.com/) ou no [ Skills For All] (https://skillsforall.com/) </li>❗Caso não tenha uma conta é necessário cria-la. 
+  <li> Após o download, você acessará com sua conta de usuário no site: [ NetAcademy ](https://www.netacad.com/) ou no [ Skills For All](https://skillsforall.com/) </li>❗Caso não tenha uma conta é necessário cria-la. 
   <li> Feito isso, abra o packet tracer, <b>clique em:</br>
   </b> file ➡️ open file ➡️ e escolha o arquivo que baixou aqui do meu projeto</b> 🙂 </li>
   <li> Pronto, agora é só verificar as configurações de IP e realizar os teste de ping ✔️💯</li>
