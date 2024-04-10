@@ -20,9 +20,10 @@ O desafio é a criação de uma rede Wireless segura considerando as melhores pr
 ---
 ## Acesso ao projeto 📂
 <p>
- ☑️ Esse projeto pode ser acessado clicando no <b>diretório projetos</b> aqui neste repositório mesmo 😄.</br>
+ ☑️ Esse projeto pode ser acessado clicando no <b>diretório 1º Projeto Prático_Wi-fi_Desenvolve_Alura</b> aqui neste repositório mesmo 😄.</br>
  ☑️ Também é possível verificar a evolução do projeto por atividades na <b>aba Projetos</b>. </br>
  Obs. Por ser uma rede simulada, todas as senhas configuradas estão visivéis. 
+ ☑️ Realize o downlod do arquivo .pkt para acessar o projeto completo da rede</b>. </br>
  
 </p> 
 
