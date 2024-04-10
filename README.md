@@ -1,5 +1,5 @@
 <h1 align="center">1° Projeto Prático - Segurança da Informação</h1>
-<h1 align="center">Programa Desenvolve - grupo Boticário</h1>
+<h5 align="center">Programa Desenvolve - grupo Boticário</h5>
 
 <p>
 Este projeto é uma proposta de desafio do projeto Desenvolve 2024 do grupo Boticário em parceria com a Alura . 
