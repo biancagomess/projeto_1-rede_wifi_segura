@@ -2,7 +2,7 @@
 <h5 align="center">Programa Desenvolve - Grupo Boticário</h5>
 
 <p>
-Este projeto é uma proposta de desafio do programa Desenvolve 2024 do grupo Boticário em parceria com a Alura . 
+Este projeto é uma proposta de desafio do programa Desenvolve 2024 do Grupo Boticário em parceria com a Alura . 
 O desafio é a criação de uma rede Wireless segura considerando as melhores práticas de segurança, como autenticação forte, criptografia, controle de acesso, ACL e segmentação por Vlan.</br>
 </p>
 
