@@ -43,4 +43,4 @@ O desafio é a criação de uma rede Wireless segura considerando as melhores pr
 
 
 Desenvolvido ❤️ por Bianca Gomes Alves 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/bianca-gomes-alves)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/bianca--gomes/)
